@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 86be09feee33233c8ac4c9a401d568dc6d534204
 {
   "compilerOptions": {
     "outDir": "./dist/",
